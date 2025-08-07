@@ -1,0 +1,17 @@
+../Core/Src/BMP388.c:37:19:BMP388_Init	4
+../Core/Src/BMP388.c:72:19:BMP388_SetTempOS	2
+../Core/Src/BMP388.c:91:19:BMP388_SetPressOS	2
+../Core/Src/BMP388.c:110:19:BMP388_SetIIRFilterCoeff	2
+../Core/Src/BMP388.c:129:19:BMP388_SetOutputDataRate	2
+../Core/Src/BMP388.c:150:19:BMP388_ReadRawPressTempTime	6
+../Core/Src/BMP388.c:214:6:BMP388_CompensateRawPressTemp	1
+../Core/Src/BMP388.c:236:7:BMP388_FindAltitude	1
+../Core/Src/BMP388.c:256:19:BMP388_StartNormalModeFIFO	6
+../Core/Src/BMP388.c:303:19:BMP388_GetFIFOLength	2
+../Core/Src/BMP388.c:320:19:BMP388_GetRawDataFIFO	2
+../Core/Src/BMP388.c:349:19:BMP388_SoftReset	6
+../Core/Src/BMP388.c:388:19:BMP388_GetCalibData	2
+../Core/Src/BMP388.c:484:7:BMP388_CompensateTemp	1
+../Core/Src/BMP388.c:506:7:BMP388_CompensatePress	1
+../Core/Src/BMP388.c:550:19:BMP388_ReadBytes	1
+../Core/Src/BMP388.c:568:19:BMP388_WriteBytes	1

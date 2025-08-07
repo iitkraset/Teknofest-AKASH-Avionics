@@ -1,0 +1,17 @@
+../Core/Src/BMP388.c:37:19:BMP388_Init	24	static
+../Core/Src/BMP388.c:72:19:BMP388_SetTempOS	16	static
+../Core/Src/BMP388.c:91:19:BMP388_SetPressOS	16	static
+../Core/Src/BMP388.c:110:19:BMP388_SetIIRFilterCoeff	16	static
+../Core/Src/BMP388.c:129:19:BMP388_SetOutputDataRate	16	static
+../Core/Src/BMP388.c:150:19:BMP388_ReadRawPressTempTime	40	static
+../Core/Src/BMP388.c:214:6:BMP388_CompensateRawPressTemp	32	static
+../Core/Src/BMP388.c:236:7:BMP388_FindAltitude	16	static
+../Core/Src/BMP388.c:256:19:BMP388_StartNormalModeFIFO	24	static
+../Core/Src/BMP388.c:303:19:BMP388_GetFIFOLength	24	static
+../Core/Src/BMP388.c:320:19:BMP388_GetRawDataFIFO	32	static
+../Core/Src/BMP388.c:349:19:BMP388_SoftReset	24	static
+../Core/Src/BMP388.c:388:19:BMP388_GetCalibData	72	static
+../Core/Src/BMP388.c:484:7:BMP388_CompensateTemp	32	static
+../Core/Src/BMP388.c:506:7:BMP388_CompensatePress	56	static
+../Core/Src/BMP388.c:550:19:BMP388_ReadBytes	40	static
+../Core/Src/BMP388.c:568:19:BMP388_WriteBytes	40	static
